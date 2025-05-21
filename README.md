@@ -55,22 +55,20 @@ _Herramienta para la monitorización y gestión de redes informáticas, utilizan
 
 ---
 
-### 🐍 Actividad reciente
-
-![Snake animation](https://github.com/ezequiel030/ezequiel030/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ### 🌍 Conecta conmigo
 
 <p align="left">
-  <a href="https://linkedin.com/in/ezequielchavez" target="_blank">
+  <a href="https://linkedin.com/in/ezequielchavez" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/ezequielchavez" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  <a href="https://instagram.com/ezequiel_chavez.asc" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:ec228724@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
+
 
 ---
 
