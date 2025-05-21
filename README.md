@@ -1,25 +1,83 @@
-👋 ¡Hola! Soy Ezequiel Chávez
-Soy un apasionado estudiante de grado superior en Gestión y Administración de Redes Informáticas en Red. Mi objetivo es combinar mis conocimientos en redes con el desarrollo de software para crear soluciones innovadoras y eficientes.
+<h1 align="center">¡Hola! 👋 Soy Ezequiel Chávez</h1>
+<h3 align="center">🎓 Estudiante de Gestión y Administración de Redes Informáticas en Red</h3>
 
-🛠️ Mis Habilidades
-Lenguajes de programación: Python, JavaScript, SQL.
+---
 
-Tecnologías web: HTML, CSS, JavaScript.
+### 🧠 Sobre mí
 
-Bases de datos: MySQL, PostgreSQL.
+Soy un apasionado estudiante con entusiasmo por la tecnología. Mi objetivo es **combinar conocimientos en redes y desarrollo de software** para crear soluciones **innovadoras y eficientes**.
 
-Herramientas: Git, Docker, Jenkins.
+💡 Siempre dispuesto a aprender nuevas tecnologías y participar en proyectos colaborativos.
 
-📂 Mis Repositorios Destacados
-ActividadesSostenibles: Un proyecto enfocado en promover prácticas sostenibles a través de actividades educativas y comunitarias.
+---
 
-Gestor-Usuarios: Aplicación para la gestión de usuarios con autenticación y roles, desarrollada en Python y Flask.
+### 🛠️ Tecnologías y Herramientas
 
-Sistema-Redes: Herramienta para la monitorización y gestión de redes informáticas, utilizando tecnologías como SNMP y Python.
+#### 🧑‍💻 Lenguajes de programación:
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-📬 Conecta conmigo
-LinkedIn: linkedin.com/in/ezequielchavez
+#### 🌐 Tecnologías web:
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-Twitter: @ezequielchavez
+#### 🗃️ Bases de datos:
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+#### ⚙️ Herramientas DevOps:
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+
+---
+
+### 📌 Proyectos Destacados
+
+🔹 **ActividadesSostenibles**  
+_Un proyecto enfocado en promover prácticas sostenibles a través de actividades educativas y comunitarias._
+
+🔹 **Gestor-Usuarios**  
+_Aplicación para la gestión de usuarios con autenticación y roles, desarrollada en Python y Flask._
+
+🔹 **Sistema-Redes**  
+_Herramienta para la monitorización y gestión de redes informáticas, utilizando tecnologías como SNMP y Python._
+
+---
+
+### 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ezequiel030&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezequiel030&layout=compact&theme=radical" alt="langs" />
+</p>
+
+---
+
+### 🐍 Actividad reciente
+
+![Snake animation](https://github.com/ezequiel030/ezequiel030/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+### 🌍 Conecta conmigo
+
+<p align="left">
+  <a href="https://linkedin.com/in/ezequielchavez" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/ezequielchavez" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+</p>
+
+---
+
+### 📈 Visitas al perfil
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ezequiel030&label=Profile%20views&color=0e75b6&style=flat" alt="ezequiel030" />
+</p>
 
 
